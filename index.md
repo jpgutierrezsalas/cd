@@ -127,13 +127,4 @@ Resultaría conveniente que en el tema de pre-cálculo se trabaje a más profund
 
 <p>Todos los elementos mencionados pueden observarse, de manera integral, en la tabla donde se asocian los aprendizajes clave con los contenidos centrales y específicos, y se establecen los aprendizajes esperados que deben alcanzar los estudiantes al cursar la asignatura de Cálculo diferencial. Se precisan, también, las evidencias del logro de los aprendizajes, en términos de productos esperados.</p>
 
-
-## Automated links
-
-If you want to use an automated system for managing links, see [Automated Links][mydoc_hyperlinks.html#automatedlinks]. This approach automatically creates a list of Markdown references to simplify linking.
-
-## Other instructions
-
-The content here is just a getting started guide only. For other details in working with the theme, see the various sections in the sidebar.
-
 {% include links.html %}
