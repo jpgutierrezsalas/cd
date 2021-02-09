@@ -23,20 +23,20 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Get started
+    - title: Proposito
       url: /index.html
       output: web, pdf
       type: homepage
 
-    - title: Introduction
+    - title: Encuadre
       url: /mydoc_introduction.html
       output: web, pdf
 
-    - title: Supported features
+    - title: Material de Apoyo
       url: /mydoc_supported_features.html
       output: web, pdf
 
-    - title: About the theme author
+    - title: Acerca de mi
       url: /mydoc_about.html
       output: web, pdf
 
