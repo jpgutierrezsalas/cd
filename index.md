@@ -83,7 +83,7 @@ Resultaría conveniente que en el tema de pre-cálculo se trabaje a más profund
 ## Estructura general de la asignatura
 
 <p>Con el propósito de brindar especificidad al currículo y lograr una mayor profundidad de los aprendizajes en los estudiantes, se han considerado en el diseño seis elementos de organización curricular:</p>
-<br>
+
 <p>Elementos de organización curricular</p>
 
 <table>
@@ -91,12 +91,7 @@ Resultaría conveniente que en el tema de pre-cálculo se trabaje a más profund
   <col width="30%" />
   <col width="70%" />
 </colgroup>
-<thead>
-<tr class="header">
-  <th>Concepto</th>
-  <th>Definición</th>
-</tr>
-</thead>
+
 <tbody>
 <tr>
 <td markdown="span">Eje.</td>
