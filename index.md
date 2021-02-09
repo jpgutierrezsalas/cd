@@ -9,12 +9,33 @@ summary: PROGRAMA DE ESTUDIOS DEL COMPONENTE BÁSICO DEL MARCO CURRICULAR COMÚN
 
 {% include note.html content="El cálculo diferencial es una parte del cálculo infinitesimal y del análisis matemático que estudia cómo cambian las funciones continuas según sus variables cambian de estado." %}
 
-## Introducción
+## Presentación
 
 <p>Nuestro país, como otras naciones en el mundo, se encuentra impulsando una Reforma Educativa de gran calado, cuyo objetivo central es el lograr que todos los niños y jóvenes ejerzan su derecho a una educación de calidad, y reciban una enseñanza que les permita obtener los aprendizajes necesarios para enfrentar los desafíos del siglo XXI.</p>
 <p>En el diseño de la Reforma se establece como obligación la elaboración de los planes y programas de estudio para la educación obligatoria, para que encuentre una dimensión de concreción pedagógica y curricular en las aulas. En el Nuevo Modelo Educativo, dada la relevancia que la sociedad ve en la educación como potenciadora del desarrollo personal y social, un elemento clave es el desarrollo de los nuevos currículos para la educación obligatoria en general y para la Educación Media Superior (EMS) en lo particular, así como los programas por asignatura.
 Como bien señalan Reimers y Cárdenas (2016), es en la definición de las competencias que se incorporan en el currículo donde se observa la articulación, pertinencia y vertebración con las metas nacionales educativas que se fijan los sistemas educativos como el mexicano.</p>
 <p>Existe evidencia de que el Modelo Educativo de la Educación Media Superior vigente no responde a las necesidades presentes ni futuras de los jóvenes. Actualmente, la enseñanza se encuentra dirigida de manera estricta por el profesor, es impersonal, homogénea y prioriza la acumulación de conocimientos y no el logro de aprendizajes profundos; el conocimiento se encuentra fragmentado por semestres académicos, clases, asignaturas y se prioriza la memorización, y la consecuente acumulación de contenidos desconectados; el aprendizaje se rige por un calendario estricto de actividades en las que se les dice a los alumnos, rigurosamente, qué hacer y qué no hacer, y se incorporan nuevas tecnologías a viejas prácticas. Todo ello produce conocimientos fragmentados con limitada aplicabilidad, relevancia, pertinencia y vigencia en la vida cotidiana de los estudiantes, así como amnesia post-evaluación en lugar de aprendizajes significativos y profundos.</p>
+
+## Introducción
+
+Al realizar la revisión a la asignatura Cálculo diferencial del bachillerato tecnológico, se identifica lo siguiente:
+
+### 1. Pre-Cálculo
+Diferenciar el tratamiento del pre-cálculo al del cálculo diferencial, con el fin de fortalecer las ideas variacionales como antecedente del pensamiento funcional. En este sentido, denominar a Matemáticas V como Cálculo diferencial con un primer tema introductorio para el tratamiento de las funciones.
+
+### 2. Funciones
+Reiterar la idea de tener contenidos más robustos, aunque menos extensos, no se requiere de muchos temas sino de temas específicos tratados de manera amplia y profunda. Por ejemplo, el tema de continuidad de las funciones podría tratarse al nivel de contigüidad de la gráfica, lo que exige de una intuición mayor sin una formalización excesiva.
+
+### 3. Límites
+Especificar las acciones a seguir en cada uno de los pensamientos y estrategias variacionales que se precisan para su desarrollo. Se sugiere que las ideas del pre-cálculo sean incorporadas al BT, al menos al nivel introductorio, esto quizá con una ampliación de la carga horaria o con un desfasamiento de los contenidos con otras asignaturas.
+
+### 4. Derivadas
+Resultaría conveniente que en el tema de pre-cálculo se trabaje a más profundidad con las funciones hasta de grado 3, aunque haya que quitar las de grado superior. La razón es que las cúbicas tienen una potencia singular para discutir las raíces de una función y los puntos singulares: máximo, mínimo y puntos de inflexión. Y se sugiere dar un tratamiento no formal a los números, basado más en la distinción intuitiva entre números para contar y números para medir.
+
+## Datos de identificación
+
+<p>La asignatura de Cálculo diferencial se ubica dentro del cuarto semestre del Bachillerato Tecnológico. Se estructura formando parte de la integración de los contenidos propios de las asignaturas de Álgebra, Geometría y Trigonometría y Geometría Analítica del campo disciplinar de Matemáticas. Lo anterior, de conformidad con el Acuerdo Secretarial 653, publicado en el Diario Oficial de la Federación el 04 de septiembre de 2012. Estas horas incluyen el trabajo con las fichas de Habilidades socioemocionales.</p>
+<img src="{{ "images/matematicas.png" }}" alt="Company logo"/ height="40" weight="85">
 
 ### 1. Download the theme
 
