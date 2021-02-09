@@ -38,6 +38,39 @@ Resultaría conveniente que en el tema de pre-cálculo se trabaje a más profund
 
 {% include image.html file="programa.png" alt="Jekyll" caption="This is a sample caption" %}
 
+## Propósito formativo del campo disciplinar de Matemáticas
+
+<p>Las competencias disciplinares básicas de Matemáticas buscan propiciar el desarrollo de la creatividad y el pensamiento lógico y crítico entre los estudiantes. Un estudiante que cuente con las competencias disciplinares de matemáticas puede argumentar y estructurar mejor sus ideas y razonamientos.</p>
+<p>Las competencias reconocen que a la solución de cada tipo de problema matemático corresponden diferentes conocimientos y habilidades, y el despliegue de diferentes valores y actitudes. Por ello, los estudiantes deben poder razonar matemáticamente, y no simplemente responder ciertos tipos de problemas mediante la repetición de procedimientos establecidos. Esto implica el que puedan hacer las aplicaciones de esta disciplina más allá del salón de clases.</p>
+
+## Propósito de la asignatura de Cálculo diferencial
+
+<p>Que el estudiante aprenda a identificar, utilizar y comprender los sistemas de representación del cambio continuo y su discretización numérica con fines predictivos.</p>
+<p>De igual manera, se desarrollarán los Aprendizajes Clave de la asignatura de Cálculo diferencial:</p>
+
+<table>
+<colgroup>
+<col width="30%" />
+<col width="70%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Field</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span">First column **fields**</td>
+<td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
+</tr>
+<tr>
+<td markdown="span">Second column **fields**</td>
+<td markdown="span">Some more descriptive text.
+</td>
+</tr>
+</tbody>
+</table>
 
 ### 1. Download the theme
 
