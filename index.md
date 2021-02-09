@@ -64,17 +64,18 @@ Resultaría conveniente que en el tema de pre-cálculo se trabaje a más profund
 <tbody>
 <tr>
 <td markdown="span">Pensamiento y lenguaje variacional.</td>
-<td markdown="span">Cambio y predicción: elementos del Cálculo.</td>
-<td markdown="span"><p>• Conceptosbásicosdesistemasde coordenadas, orientación y posición.</p>
-<p>• Introducciónalasfuncionesalgebraicasy elementos de las funciones trascendentes elementales.</p>
-<p>• Usos de la derivada en diversas situaciones contextuales.</p>
-<p>• Tratamiento intuitivo: numérico, visual y algebraico de los límites.</p>
-<p>• Tratamiento del cambio y la variación: estrategias variacionales.</p>
-<p>• Graficacióndefuncionespordiversos métodos.</p>
-<p>• Introducción a las funciones continuas y a la derivada como una función.</p>
-<p>• Criteriosdeoptimización:Criteriosde localización para máximos y mínimos de funciones.</p>
-<p>• Nocionesbásicasdederivacióndeordenuno y orden dos (primera y segunda derivada).</p>
-<p>• Optimización y graficación de funciones elementales (algebraicas y trascendentes).</p>
+<td markdown="span">Cambio y predicción: Elementos del Cálculo.</td>
+<td markdown="span">
+  <p>• Conceptos básicos de sistemas de coordenadas, orientación y posición.</p><br>
+  <p>• Introducción a las funciones algebraicas y elementos de las funciones trascendentes elementales.</p>
+  <p>• Usos de la derivada en diversas situaciones contextuales.</p>
+  <p>• Tratamiento intuitivo: numérico, visual y algebraico de los límites.</p>
+  <p>• Tratamiento del cambio y la variación: estrategias variacionales.</p>
+  <p>• Graficación de funciones por diversos métodos.</p>
+  <p>• Introducción a las funciones continuas y a la derivada como una función.</p>
+  <p>• Criterios de optimización: Criterios de localización para máximos y mínimos de funciones.</p>
+  <p>• Nociones básicas de derivación de orden uno y orden dos (primera y segunda derivada).</p>
+  <p>• Optimización y graficación de funciones elementales (algebraicas y trascendentes).</p>
 </td>
 </tr>
 </tbody>
@@ -85,12 +86,6 @@ Resultaría conveniente que en el tema de pre-cálculo se trabaje a más profund
 <p>Con el propósito de brindar especificidad al currículo y lograr una mayor profundidad de los aprendizajes en los estudiantes, se han considerado en el diseño seis elementos de organización curricular:</p>
 
 <p>Elementos de organización curricular</p>
-
-<table>
-<colgroup>
-  <col width="30%" />
-  <col width="70%" />
-</colgroup>
 
 <tbody>
 <tr>
