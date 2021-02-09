@@ -4,9 +4,6 @@ sidebar: mydoc_sidebar
 permalink: mydoc_introduction.html
 folder: mydoc
 ---
---
-## Overview
---
 
 ## Vista General de la asignatura de Cálculo Diferencial
 
