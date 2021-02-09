@@ -36,7 +36,7 @@ Resultaría conveniente que en el tema de pre-cálculo se trabaje a más profund
 
 <p>La asignatura de Cálculo diferencial se ubica dentro del cuarto semestre del Bachillerato Tecnológico. Se estructura formando parte de la integración de los contenidos propios de las asignaturas de Álgebra, Geometría y Trigonometría y Geometría Analítica del campo disciplinar de Matemáticas. Lo anterior, de conformidad con el Acuerdo Secretarial 653, publicado en el Diario Oficial de la Federación el 04 de septiembre de 2012. Estas horas incluyen el trabajo con las fichas de Habilidades socioemocionales.</p>
 
-{% include image.html file="programa.png" alt="Jekyll" caption="This is a sample caption" %}
+{% include image.html file="programa.png" alt="programa" caption="Programa de estudios" %}
 
 ## Propósito formativo del campo disciplinar de Matemáticas
 
