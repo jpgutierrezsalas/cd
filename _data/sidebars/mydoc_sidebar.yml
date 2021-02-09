@@ -19,7 +19,7 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Overview
+  - title: Vista General
     output: web, pdf
     folderitems:
 
