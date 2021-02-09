@@ -4,7 +4,7 @@ keywords: sample homepage
 tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: index.html
-summary: PROGRAMA DE ESTUDIOS DEL COMPONENTE BÁSICO DEL MARCO CURRICULAR COMÚN DE LA EDUCACIÓN MEDIA SUPERIOR.
+resumen: PROGRAMA DE ESTUDIOS DEL COMPONENTE BÁSICO DEL MARCO CURRICULAR COMÚN DE LA EDUCACIÓN MEDIA SUPERIOR.
 ---
 
 {% include note.html content="El cálculo diferencial es una parte del cálculo infinitesimal y del análisis matemático que estudia cómo cambian las funciones continuas según sus variables cambian de estado." %}
