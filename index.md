@@ -65,16 +65,16 @@ Resultaría conveniente que en el tema de pre-cálculo se trabaje a más profund
 <tr>
 <td markdown="span">Pensamiento y lenguaje variacional.</td>
 <td markdown="span">Cambio y predicción: elementos del Cálculo.</td>
-<td markdown="span">• Conceptosbásicosdesistemasde coordenadas, orientación y posición.
-• Introducciónalasfuncionesalgebraicasy elementos de las funciones trascendentes elementales.
-• Usos de la derivada en diversas situaciones contextuales.
-• Tratamiento intuitivo: numérico, visual y algebraico de los límites.
-• Tratamiento del cambio y la variación: estrategias variacionales.
-• Graficacióndefuncionespordiversos métodos.
-• Introducción a las funciones continuas y a la derivada como una función.
-• Criteriosdeoptimización:Criteriosde localización para máximos y mínimos de funciones.
-• Nocionesbásicasdederivacióndeordenuno y orden dos (primera y segunda derivada).
-• Optimización y graficación de funciones elementales (algebraicas y trascendentes).
+<td markdown="span"><p>• Conceptosbásicosdesistemasde coordenadas, orientación y posición.</p>
+<p>• Introducciónalasfuncionesalgebraicasy elementos de las funciones trascendentes elementales.</p>
+<p>• Usos de la derivada en diversas situaciones contextuales.</p>
+<p>• Tratamiento intuitivo: numérico, visual y algebraico de los límites.</p>
+<p>• Tratamiento del cambio y la variación: estrategias variacionales.</p>
+<p>• Graficacióndefuncionespordiversos métodos.</p>
+<p>• Introducción a las funciones continuas y a la derivada como una función.</p>
+<p>• Criteriosdeoptimización:Criteriosde localización para máximos y mínimos de funciones.</p>
+<p>• Nocionesbásicasdederivacióndeordenuno y orden dos (primera y segunda derivada).</p>
+<p>• Optimización y graficación de funciones elementales (algebraicas y trascendentes).</p>
 </td>
 </tr>
 </tbody>
