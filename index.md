@@ -7,11 +7,14 @@ permalink: index.html
 summary: PROGRAMA DE ESTUDIOS DEL COMPONENTE BÁSICO DEL MARCO CURRICULAR COMÚN DE LA EDUCACIÓN MEDIA SUPERIOR.
 ---
 
-{% include note.html content="If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called <a alt='technical writing blog' href='http://idratherbewriting.com'>I'd Rather Be Writing</a>. If you'd like to stay updated with the latest trends, best practices, and other methods for writing documentation, consider <a href='https://tinyletter.com/tomjoht'>subscribing</a>. I also have a site on <a href='http://idratherbewriting.com/learnapidoc'>writing API documentation</a>." %}
+{% include note.html content="El cálculo diferencial es una parte del cálculo infinitesimal y del análisis matemático que estudia cómo cambian las funciones continuas según sus variables cambian de estado." %}
 
-## Build the Theme
+## Introducción
 
-Follow these instructions to build the theme.
+<p>Nuestro país, como otras naciones en el mundo, se encuentra impulsando una Reforma Educativa de gran calado, cuyo objetivo central es el lograr que todos los niños y jóvenes ejerzan su derecho a una educación de calidad, y reciban una enseñanza que les permita obtener los aprendizajes necesarios para enfrentar los desafíos del siglo XXI.</p>
+<p>En el diseño de la Reforma se establece como obligación la elaboración de los planes y programas de estudio para la educación obligatoria, para que encuentre una dimensión de concreción pedagógica y curricular en las aulas. En el Nuevo Modelo Educativo, dada la relevancia que la sociedad ve en la educación como potenciadora del desarrollo personal y social, un elemento clave es el desarrollo de los nuevos currículos para la educación obligatoria en general y para la Educación Media Superior (EMS) en lo particular, así como los programas por asignatura.
+Como bien señalan Reimers y Cárdenas (2016), es en la definición de las competencias que se incorporan en el currículo donde se observa la articulación, pertinencia y vertebración con las metas nacionales educativas que se fijan los sistemas educativos como el mexicano.</p>
+<p>Existe evidencia de que el Modelo Educativo de la Educación Media Superior vigente no responde a las necesidades presentes ni futuras de los jóvenes. Actualmente, la enseñanza se encuentra dirigida de manera estricta por el profesor, es impersonal, homogénea y prioriza la acumulación de conocimientos y no el logro de aprendizajes profundos; el conocimiento se encuentra fragmentado por semestres académicos, clases, asignaturas y se prioriza la memorización, y la consecuente acumulación de contenidos desconectados; el aprendizaje se rige por un calendario estricto de actividades en las que se les dice a los alumnos, rigurosamente, qué hacer y qué no hacer, y se incorporan nuevas tecnologías a viejas prácticas. Todo ello produce conocimientos fragmentados con limitada aplicabilidad, relevancia, pertinencia y vigencia en la vida cotidiana de los estudiantes, así como amnesia post-evaluación en lugar de aprendizajes significativos y profundos.</p>
 
 ### 1. Download the theme
 
