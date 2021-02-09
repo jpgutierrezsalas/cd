@@ -50,23 +50,31 @@ Resultaría conveniente que en el tema de pre-cálculo se trabaje a más profund
 
 <table>
 <colgroup>
-<col width="30%" />
-<col width="70%" />
+<col width="20%" />
+<col width="20%" />
+<col width="60%" />
 </colgroup>
 <thead>
 <tr class="header">
-<th>Field</th>
-<th>Description</th>
+<th>Eje</th>
+<th>Componente</th>
+<th>Contenidos centrales</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td markdown="span">First column **fields**</td>
-<td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
-</tr>
-<tr>
-<td markdown="span">Second column **fields**</td>
-<td markdown="span">Some more descriptive text.
+<td markdown="span">Pensamiento y lenguaje variacional.</td>
+<td markdown="span">Cambio y predicción: elementos del Cálculo.</td>
+<td markdown="span">• Conceptosbásicosdesistemasde coordenadas, orientación y posición.
+• Introducciónalasfuncionesalgebraicasy elementos de las funciones trascendentes elementales.
+• Usos de la derivada en diversas situaciones contextuales.
+• Tratamiento intuitivo: numérico, visual y algebraico de los límites.
+• Tratamiento del cambio y la variación: estrategias variacionales.
+• Graficacióndefuncionespordiversos métodos.
+• Introducción a las funciones continuas y a la derivada como una función.
+• Criteriosdeoptimización:Criteriosde localización para máximos y mínimos de funciones.
+• Nocionesbásicasdederivacióndeordenuno y orden dos (primera y segunda derivada).
+• Optimización y graficación de funciones elementales (algebraicas y trascendentes).
 </td>
 </tr>
 </tbody>
