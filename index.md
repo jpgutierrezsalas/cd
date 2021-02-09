@@ -1,5 +1,5 @@
 ---
-title: "Getting started with the Documentation Theme for Jekyll"
+title: "PROGRAMA DE ESTUDIOS DEL COMPONENTE BÁSICO DEL MARCO CURRICULAR COMÚN DE LA EDUCACIÓN MEDIA SUPERIOR - Asignatura: Cálculo Diferencial"
 keywords: sample homepage
 tags: [getting_started]
 sidebar: mydoc_sidebar
